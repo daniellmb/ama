@@ -10,11 +10,10 @@ Anything means *anything*. Personal questions. Money. Work. Life. Code. Whatever
 
 ### Guidelines
 
-- [Ensure your question hasn't already been asked](../../issues?q=is%3Aissue).
+- [Ensure your question has not been asked already](../../issues?q=is%3Aissue).
 - Use a succinct title and description.
-- Bugs & feature requests should be opened on the relevant issue tracker.
-- Support questions are better asked on Stack Overflow.
 - Be civil and polite.
+- Support questions are better asked on Stack Overflow.
 
 ### Links
 
